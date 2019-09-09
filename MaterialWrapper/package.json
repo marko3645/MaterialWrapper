@@ -1,0 +1,13 @@
+{
+  "name": "material-wrapper",
+  "version": "0.0.0",
+  "description": "MaterialWrapper",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "material-components-web": "3.1.1",
+    "gulp": "4.0.2"
+  }
+}
